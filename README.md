@@ -12,7 +12,7 @@ This project demonstrates how to host a static website on AWS S3 using a public 
 
 ## 🔗 Live Site
 
-👉 [Click here to view the hosted site]([http://pornima-s3-website.s3-website.ap-south-1.amazonaws.com](http://pornima-s3-website.s3-website-us-east-1.amazonaws.com/))
+👉 [Click here to view the hosted site](http://pornima-s3-website.s3-website-us-east-1.amazonaws.com/)
 
 ## 💡 Tech Used
 
